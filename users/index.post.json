@@ -1,0 +1,2 @@
+//! statusCode: 201, contentType: "application/json"
+{"message": "{UserId} has been successfully created."}

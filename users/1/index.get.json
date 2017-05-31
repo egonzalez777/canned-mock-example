@@ -1,0 +1,2 @@
+//! statusCode: 200, contentType: "application/json"
+{"id": 1, "name": "user1", "last": "user1Last", "occupation": "tester", "friends": [10, 20, 22, 50, 60], "created": "2/23/2005"}

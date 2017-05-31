@@ -1,0 +1,2 @@
+//! statusCode: 200, contentType: "application/json"
+{"groups": [{"name": "Group1", "access": "All", "owner": "GroupOwner1", "created": "02/28/2005"}]}

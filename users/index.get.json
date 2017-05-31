@@ -1,0 +1,2 @@
+//! statusCode: 200, contentType: "application/json"
+{"users": [{"id": 1, "name": "user1", "last": "user1Last", "friends": ["..."], "occupation": "tester", "created": "02/23/2005"}, {"id": 2, "name": "user2", "last": "user2Last", "friends": ["..."], "occupation": "tester", "created": "02/23/2005"}]}
